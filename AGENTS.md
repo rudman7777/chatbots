@@ -27,3 +27,4 @@
 | agent.minimax.io | M3.1 Flash |
 | chat.ant-ling.com | Ling-3.1-flash |
 | longcat.ai | LongCat-2.5 Preview |
+| genspark.ai | Genspark Agent |
